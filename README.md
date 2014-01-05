@@ -6,8 +6,8 @@ abc
 def  
 ghi
 
-1.one
-1.two
+1. one
+1. two
 
 > abc
 
